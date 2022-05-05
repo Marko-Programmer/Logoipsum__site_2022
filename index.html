@@ -14,8 +14,31 @@
 </head>
 
 <body>
-    <div class="wrapper">
 
+<!--                   pop up                     -->
+
+<div class="popup__bg">
+    <form class="popup" id="form-login">
+        <img src="img/close.png" alt="" class="close-popup">
+        <label for="">
+            <input type="text" name="name" class="input-info">
+            <div class="label__text">Ім'я</div>
+        </label>
+        <label for="">
+            <input type="email" name='gmail' class="input-info">
+            <div class="label__text">Gmail</div>
+        </label>
+        <label for="">
+            <input type="password" name='password' class="input-info">
+            <div class="label__text">Пароль</div>
+        </label>
+        <button type="submit" class="popup__button" id="popupBtn">Вхід</button>
+    </form>
+</div>
+
+<!--                                      content                                     -->
+
+<div class="wrapper">
         <!-- HEADER -->
         <header class="header">
             <div class="container">
@@ -28,7 +51,7 @@
                             <li><a data-goto=".Content-1" href="#" class="header__link">Features</a></li>
                             <li><a data-goto=".Pricing" href="#" class="header__link">Pricing</a></li>
                             <li><a data-goto=".Plan" href="#" class="header__link header__link-last-child">Blog</a></li>
-                            <li><button class="header__button">Get Started</button></li>
+                            <li><button class="header__button" id="account-login">Get Started</button></li>
                         </ul>
                     </nav>
                 </div>
@@ -192,7 +215,6 @@
                 </div>
             </div>
         </div>
-
 
 
         <!--                        Button-Lobby                  -->
