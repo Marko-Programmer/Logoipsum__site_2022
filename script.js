@@ -91,3 +91,14 @@ document.addEventListener('click', (e) => {
 //                             tabs
 
 
+const tabsBtn = document.querySelectorAll(".plan__buttons");
+
+tabsBtn.forEach(function (item) {
+    item.addEventListener('click', function () {
+        let activeBtn = item;
+        tabsBtn.forEach(function (item) {
+            item.classList.remove('active')
+        })
+        activeBtn.classList.add('active');
+    })
+})
