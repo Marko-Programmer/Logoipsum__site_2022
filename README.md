@@ -16,7 +16,7 @@ Welcome to the **Logoipsum Website** project! This is a simple yet effective web
 
 ## Live Demo
 
-Check out the live version of the website: [Logoipsum Website](https://your-website-link.com)
+Check out the live version of the website: [Logoipsum Website](https://marko-programmer.github.io/logoipsum/)
 
 ## Installation
 
@@ -24,4 +24,4 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/logoipsum-website.git
+   git clone https://github.com/yourusername/logoipsum.git
