@@ -21,3 +21,6 @@ To run this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Marko-Programmer/logoipsum-website.git
+   
+## Live Demo
+Check out the live version of the website: [Logoipsum Website](https://marko-programmer.github.io/logoipsum/)
