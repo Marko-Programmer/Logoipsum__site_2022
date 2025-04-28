@@ -18,7 +18,7 @@ Welcome to the **Logoipsum Website** project! This is a simple yet effective web
 
 To run this project locally:
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/Marko-Programmer/logoipsum-website.git
    
