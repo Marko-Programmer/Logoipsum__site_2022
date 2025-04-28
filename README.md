@@ -14,13 +14,14 @@ Welcome to the **Logoipsum Website** project! This is a simple yet effective web
 - **CSS3**: Custom styles using CSS3 to enhance the look and feel of the website, including animations and transitions.
 - **JavaScript**: Used for adding interactive elements such as pop-up forms, toggling the menu, and ensuring a dynamic user experience.
 
+## Live Demo
+
+Check out the live version of the website: [Logoipsum Website](https://your-website-link.com)
+
 ## Installation
 
 To run this project locally:
 
-Clone the repository:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/Marko-Programmer/logoipsum-website.git
-   
-## Live Demo
-Check out the live version of the website: [Logoipsum Website](https://marko-programmer.github.io/logoipsum/)
+   git clone https://github.com/yourusername/logoipsum-website.git
