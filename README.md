@@ -18,6 +18,9 @@ Welcome to the **Logoipsum Website** project! This is a simple yet effective web
 
 Check out the live version of the website: [Logoipsum Website](https://marko-programmer.github.io/logoipsum/)
 
+⚠️ This is a demo site. Do not enter real passwords or personal information.
+
+
 ## Installation
 
 To run this project locally:
